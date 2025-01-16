@@ -41,4 +41,4 @@ For any queries, feel free to reach out:
 
 GitHub: Gurpal-saghi-9
 
-Email: Gurusaghi324.com
+Email: Gurusaghi324@gmail.com
