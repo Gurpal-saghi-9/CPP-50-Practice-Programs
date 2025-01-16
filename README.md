@@ -49,4 +49,6 @@ For any queries, feel free to reach out:
 GitHub: Gurpal-saghi-9
 Email: gurusaghi324@gmail.com
 
+---
+
 Feel free to contribute to this repository or report any issues you encounter. Happy coding! 🚀
