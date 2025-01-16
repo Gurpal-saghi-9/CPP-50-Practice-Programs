@@ -24,6 +24,11 @@ This folder contains multiple C++ programs that demonstrate different ways to sw
 
 ## 📷 Dry Code Example
 Below is a photo of the dry code explanation for swapping two numbers
+
+<div align="center">
+  <img src="https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/blob/main/Images/01_swap.jpg" alt="Swap" width="50%">
+</div>
+
 ![Swap](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/blob/main/Images/01_swap.jpg)
 
 ---
