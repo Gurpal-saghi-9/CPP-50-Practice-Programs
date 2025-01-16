@@ -29,8 +29,6 @@ Below is a photo of the dry code explanation for swapping two numbers
   <img src="https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/blob/main/Images/01_swap.jpg" alt="Swap" width="50%">
 </div>
 
-![Swap](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/blob/main/Images/01_swap.jpg)
-
 ---
 
 ## 🤝 Contributions
@@ -42,4 +40,5 @@ Feel free to contribute by adding more ways to swap numbers or optimizing existi
 For any queries, feel free to reach out:
 
 GitHub: Gurpal-saghi-9
+
 Email: Gurusaghi324.com
