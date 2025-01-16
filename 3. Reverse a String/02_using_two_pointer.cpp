@@ -28,25 +28,11 @@ void rev2(string& str){
 int main() {
     string str1 = "Gurpal Singh";
 
-    int i = 0;
-    int j = str1.length() - 1;
-
-    while (i < j)
-    {
-        swap(str1[i], str1[j]);
-        i++;
-        j--;
-    }
-    
+    rev1(str1);
     cout << str1 << endl;
 
-    string str2 = "Hello World";
-
-    rev1(str2);
-    cout << str2 << endl;
-
-    rev2(str2);
-    cout << str2 << endl;
+    rev2(str1);
+    cout << str1 << endl;
 
     return 0;
 }
