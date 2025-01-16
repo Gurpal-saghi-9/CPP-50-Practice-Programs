@@ -24,7 +24,7 @@ This folder contains multiple C++ programs that demonstrate different ways to sw
 
 ## 📷 Dry Code Example
 Below is a photo of the dry code explanation for swapping two numbers
-![Swap](path/to/image.jpg)
+![Swap](Images/01_swap.jpg)
 
 ---
 
