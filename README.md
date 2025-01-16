@@ -37,6 +37,7 @@ Each program comes with a detailed explanation in the `Images` folder.
    git clone https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs.git
 2. Navigate to the desired program folder.
 3. Compile and run the program:
+   
 g++ program_name.cpp -o program_name
 ./program_name
 
