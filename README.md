@@ -47,6 +47,7 @@ Each program comes with a detailed explanation in the `Images` folder.
 For any queries, feel free to reach out:
 
 GitHub: Gurpal-saghi-9
+
 Email: gurusaghi324@gmail.com
 
 ---
