@@ -24,7 +24,7 @@ Feel free to explore and provide feedback!
 ## 📝 Programs List
 Check out the **programs** in the repository:
 
-1. [Swap two numbers](./main/CPP-50-Practice-Programs/1._Swap_two_numbers/) 
+1. [Swap two numbers](./main/CPP-50-Practice-Programs/1.-Swap-two-numbers/) 
 2. Check a whether a character is Alphabet, Digit or Special Character
 3. Reverse a string
 4. Check leep year
