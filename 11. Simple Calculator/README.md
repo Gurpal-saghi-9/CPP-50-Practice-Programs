@@ -81,9 +81,14 @@ Below is a visual representation of how the calculator processes user input:
 
 ## 🤝 Contributions
 Contributions are welcome! You can:
-- Add more advanced operations (e.g., modulus, power, square root).
-- Improve the user interface or input handling.
-- Submit a pull request with your enhancements.
+- Add advanced operations (e.g., square root, modulus).
+- Improve input validation or user experience.
+- Optimize the program for better performance.
+
+To contribute:
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request.
 
 ---
 
