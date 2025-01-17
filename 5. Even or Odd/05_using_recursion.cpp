@@ -2,17 +2,24 @@
 
 using namespace std;
 
+bool isEven(int n){
+    if (n == 0){
+        return true;
+    } 
+    else if (n == 1){
+        return false;
+    } 
+    return isEven(n - 2);
+}
+
 int main(){
     int n;
     cout << "Enter an integer: ";
     cin >> n;
 
-    int  div = n / 2;
-
-    if (div * 2 == n) {
+    if (isEven(n)){
         cout << n << " is even." << endl;
-    } 
-    else {
+    } else {
         cout << n << " is odd." << endl;
     }
 
