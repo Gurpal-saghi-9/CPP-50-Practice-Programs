@@ -52,7 +52,8 @@ This folder contains a C++ program to check whether a given integer is **even** 
 Below is a visual explanation of how the program determines even or odd:
 
 <div align="center">
-  <img src="https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/blob/main/Images/05_even_odd_1.jpghttps://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/blob/main/Images/05_even_odd_2.jpg" alt="Even or Odd Logic Dry Run" width="50%">
+  <img src="https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/blob/main/Images/05_even_odd_1.jpg" alt="Even or Odd Logic Dry Run" width="50%">
+  <img src="https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/blob/main/Images/05_even_odd_2.jpg" alt="Even or Odd Logic Dry Run" width="50%">
 </div>
 
 ---
