@@ -121,7 +121,10 @@ Each program comes with a detailed explanation in the `Images` folder.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs.git
-2. Navigate to the desired program folder.
+2. **Navigate to the desired program**:
+    ```sh
+    cd "CPP 50 Practice Programs/01. Swap two numbers"
+    ```
 3. Compile and run the program:
    ```bash
    g++ program_name.cpp -o program_name
@@ -132,7 +135,7 @@ Each program comes with a detailed explanation in the `Images` folder.
 ## 📧 Contact
 For any queries, feel free to reach out:
 
-GitHub: Gurpal-saghi-9
+GitHub: [Gurpal-saghi-9](https://github.com/Gurpal-saghi-9)
 
 Email: gurusaghi324@gmail.com
 
