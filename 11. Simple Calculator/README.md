@@ -1,6 +1,6 @@
 # 🧮 Simple Calculator
 
-This folder contains a C++ program that implements a simple calculator. The program performs basic arithmetic operations based on user input.
+This folder contains a **C++ program** that implements a simple calculator. The program performs basic arithmetic operations based on user input.
 
 ---
 
@@ -10,26 +10,37 @@ This folder contains a C++ program that implements a simple calculator. The prog
 - `11. Simple Calculator`
 
 ### ✨ Features:
-- Allows the user to choose an operation: 
+- **Operations Supported**:
   - Addition (`+`)
   - Subtraction (`-`)
   - Multiplication (`*`)
   - Division (`/`)
-- Takes two numbers as input from the user.
-- Performs the selected operation and displays the result.
-- Includes error handling for invalid operations and division by zero.
+- **User Inputs**:
+  - First number
+  - Second number
+  - Choice of operation
+- **Error Handling**:
+  - Division by zero
+  - Invalid operation input
+- **Variants**:
+  - Using `if-else`
+  - Using `switch`
+  - Using functions for modularity
 
 ### 🛠️ Techniques Used:
-1. Conditional statements (`if-else`) or `switch` for operation selection.
-2. Basic arithmetic operators for calculations.
-3. Input validation to handle edge cases (e.g., division by zero).
+1. **Conditional Statements**:
+   - `if-else` or `switch` for operation selection.
+2. **Arithmetic Operators**:
+   - Basic operators: `+`, `-`, `*`, `/`.
+3. **Input Validation**:
+   - Ensures the program doesn't crash for invalid inputs like division by zero.
 
 ---
 
 ## 📂 Folder Structure
-- `01_using_if_else.cpp`: Program file for the simple calculator by using if - else.
-- `02_using_switch.cpp`: Program file for the simple calculator by using switch case.
-- `03_using_function.cpp`: Program file for the simple calculator by using function.
+- `01_using_if_else.cpp`: Implementation using `if-else` statements.
+- `02_using_switch.cpp`: Implementation using `switch-case` statements.
+- `03_using_function.cpp`: Implementation using modular functions.
 - `README.md`: Documentation for the program.
 
 ---
@@ -38,7 +49,7 @@ This folder contains a C++ program that implements a simple calculator. The prog
 
 ### Example 1:
 **Input:**  
-```sh
+```plaintext
 Enter the first number: 10
 Enter the second number: 5
 Choose an operation (+, -, *, /): +
