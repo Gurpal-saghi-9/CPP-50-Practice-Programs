@@ -7,7 +7,7 @@ int main(){
     cout << "Enter an integer: ";
     cin >> n;
 
-    cout << n << " is " << (n % 2 == 0 ? " Even " : " Odd ") << endl;
+    cout << n << " is " << (n % 2 == 0 ? "Even " : "Odd ") << endl;
 
     return 0;
 }
