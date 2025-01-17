@@ -31,11 +31,11 @@ Check out the **programs** in the repository:
 5. [Even or Odd](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/tree/main/05.%20Even%20or%20Odd)
 6. [Find largest among three numbers](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/tree/main/06.%20%20Largest%20among%20three%20number)
 7. [Check a whether a number is Prime or not](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/tree/main/07.%20check%20Prime%20number)
-8. [Print Amstrong number from 1 to n]()
-9. [Check whether number is Plindrome or not]()
-10. [Natural numbers in reverse order]()
-11. [Simple calculator]()
-12. [Swap first and last digit of a number]()
+8. [Print Amstrong number from 1 to n](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/tree/main/08.%20Amstrog%20number)
+9. [Check whether number is Plindrome or not](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/tree/main/09.%20Is%20Number%20Palindrome)
+10. [Natural numbers in reverse order](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/tree/main/10.%20Natural%20Number%20in%20Reverse%20order)
+11. [Simple calculator](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/tree/main/11.%20Simple%20Cacculator)
+12. [Swap first and last digit of a number](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
 13. [Print alphabet from A t Z]()
 14. [Concatenate two strings]()
 15. [Find String Length]()
@@ -68,15 +68,15 @@ Check out the **programs** in the repository:
 42. [Count even or odd element in array]()
 43. [Copy all element of one array to another]()
 44. [Factorial of number]()
-45. [Prime numbers from 1 to 100]()
-46. [Print Pattern 1:-]()
+45. [Prime numbers from 1 to 100](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
+46. [Print Pattern 1:-](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
     ```python
     *
     **
     ***
     ****
     ```
-47. [Print Pattern 2:-]()
+47. [Print Pattern 2:-](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
     ```python
     ****
     ***
@@ -84,7 +84,7 @@ Check out the **programs** in the repository:
     *
     ```
 
-48. [Print Pattern 3:-]()
+48. [Print Pattern 3:-](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
     ```python
     ****
      ***
@@ -92,14 +92,14 @@ Check out the **programs** in the repository:
        *
     ```
 
-49. [Print Pattern 4:-]()
+49. [Print Pattern 4:-](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
     ```python
        *
       **
      ***
     ****
     ```
-50. [Print Pattern 4:-]()
+50. [Print Pattern 4:-](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
     ```python
         *
        ***
@@ -107,9 +107,9 @@ Check out the **programs** in the repository:
      *******
       ```
 
-51. [Remove vowel from string]()
-52. [Find all factors of number]()
-53. [Celsius to Fahrenheit]()
+51. [Remove vowel from string](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
+52. [Find all factors of number](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
+53. [Celsius to Fahrenheit](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
 
 ---
 
