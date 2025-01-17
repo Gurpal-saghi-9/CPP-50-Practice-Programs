@@ -7,13 +7,18 @@ int main(){
     cout << "Enter an integer: ";
     cin >> n;
 
-    int  div = n / 2;
-
-    if (div * 2 == n) {
-        cout << n << " is even." << endl;
-    } 
-    else {
-        cout << n << " is odd." << endl;
+    while (n >= 2)
+    {
+        n -= 2;
+    }
+    
+    if (n == 0)
+    {
+        cout << "Even" << endl;
+    }
+    else
+    {
+        cout << "Odd" << endl;
     }
 
     return 0;
