@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#include <algorithm>
 
 using namespace std;
 
@@ -8,36 +9,17 @@ int main(){
     cout << "Enter a number: ";
     cin >> n;
 
-    int originalNum = n;
-    int rem;
-    int result = 0;
-    int x = 0;
-    int power;
-
-    while (originalNum != 0)
+    string s = to_string(n);
+    string rev = s;
+    reverse(rev.begin(), rev.end());
+    if (s == rev)
     {
-        originalNum /= 10;
-        ++x;
-    }
-
-    originalNum = n;
-
-    while (originalNum != 0)
-    {
-        rem = originalNum % 10;
-        power = round(pow(rem, x));
-        result += power;
-        originalNum /= 10;
-    }
-    
-    if (result == n)    
-    {
-        cout << n << " is an Armstrong number." << endl;
+        cout << "Palindrome" << endl;
     }
     else
     {
-        cout << n << " is not an Armstrong number." << endl;    
+        cout << "Not Palindrome" << endl;
     }
-
+    
     return 0;
 }
