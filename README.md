@@ -34,7 +34,7 @@ Check out the **programs** in the repository:
 8. [Print Amstrong number from 1 to n](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/tree/main/08.%20Amstrog%20number)
 9. [Check whether number is Plindrome or not](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/tree/main/09.%20Is%20Number%20Palindrome)
 10. [Natural numbers in reverse order](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/tree/main/10.%20Natural%20Number%20in%20Reverse%20order)
-11. [Simple calculator](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/tree/main/11.%20Simple%20Cacculator)
+11. [Simple calculator](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/tree/main/11.%20Simple%20Calculator)
 12. [Swap first and last digit of a number](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
 13. [Print alphabet from A t Z](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
 14. [Concatenate two strings](https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs)
