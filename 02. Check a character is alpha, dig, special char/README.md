@@ -10,7 +10,8 @@ This folder contains a C++ program that demonstrates how to determine if a given
 ## 📜 Program Details
 
 ### 📄 File Name: 
-- `02_check_character_type.cpp`
+- `01_using_ASCII.cpp`
+- `02_using_cctype.cpp`
 
 ### ✨ Features:
 - User input is taken as a character.
@@ -24,7 +25,8 @@ This folder contains a C++ program that demonstrates how to determine if a given
 ---
 
 ## 📂 Folder Structure
-- `02_check_character_type.cpp`: Program file to check the type of character.
+- `01_using_ASCII.cpp`: Program file to check the type of character.
+- `02_using_cctype.cpp`: Program file to check the type of character using function.
 - `README.md`: Documentation for the program.
 
 ---
@@ -55,7 +57,7 @@ This folder contains a C++ program that demonstrates how to determine if a given
 Below is a visualization explaining how the code identifies character types:
 
 <div align="center">
-  <img src="https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/blob/main/Images/02_check_character.jpg" alt="Character Check Dry Run" width="50%">
+  <img src="https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs/blob/main/Images/02_%20alpha%20check.jpg" alt="Character Check Dry Run" width="50%">
 </div>
 
 ---
