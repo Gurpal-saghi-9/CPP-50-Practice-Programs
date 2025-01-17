@@ -38,7 +38,7 @@ This folder contains a C++ program that implements a simple calculator. The prog
 
 ### Example 1:
 **Input:**  
-```bash
+```sh
 Enter the first number: 10
 Enter the second number: 5
 Choose an operation (+, -, *, /): +
@@ -48,7 +48,7 @@ Choose an operation (+, -, *, /): +
 
 ### Example 2:
 **Input:**  
-```bash
+```sh
 Enter the first number: 8
 Enter the second number: 0
 Choose an operation (+, -, *, /): /
