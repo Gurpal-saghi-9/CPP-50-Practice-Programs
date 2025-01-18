@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cmath>
 
+using namespace std;
+
 int main() {
     int number = 12345;
     int temp = number, numDigits = 0;
@@ -21,8 +23,8 @@ int main() {
     // Reconstruct the number
     int swappedNumber = lastDigit * static_cast<int>(pow(10, numDigits - 1)) + middlePart * 10 + firstDigit;
 
-    std::cout << "Original number: " << number << std::endl;
-    std::cout << "Swapped number: " << swappedNumber << std::endl;
+    cout << "Original number: " << number << endl;
+    cout << "Swapped number: " << swappedNumber << endl;
 
     return 0;
 }
