@@ -52,6 +52,7 @@ Enter a number: 400
 **Output:**  
 ```sh
 Number after swapping first and last digit: 004
+```
 
 
 ---
