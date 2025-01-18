@@ -57,6 +57,15 @@ Number after swapping first and last digit: 004
 
 ---
 
+## 📷 Dry Code Explanation
+Below is a visual representation of how the program checks if a number is a palindrome:
+
+<div align="center">
+  <img src="https://github.com/Gurpal-saghi-9/CPP-50-Practice-Programs" alt="Palindrome Number Logic Dry Run" width="50%">
+</div>
+
+---
+
 ## 🚀 How It Works
 1. The program takes a number as input.
 2. Extracts:
