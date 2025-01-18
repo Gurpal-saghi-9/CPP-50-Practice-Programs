@@ -1,18 +1,20 @@
 #include <iostream>
 #include <string>
 
+using namespace std;
+
 int main() {
     int number = 12345;
-    std::string numStr = std::to_string(number);
+    string numStr = to_string(number);
 
     // Swap the first digit with another (e.g., last digit)
-    std::swap(numStr[0], numStr[numStr.size() - 1]);
+    swap(numStr[0], numStr[numStr.size() - 1]);
 
     // Convert back to number
-    int swappedNumber = std::stoi(numStr);
+    int swappedNumber = stoi(numStr);
 
-    std::cout << "Original number: " << number << std::endl;
-    std::cout << "Swapped number: " << swappedNumber << std::endl;
+    cout << "Original number: " << number << endl;
+    cout << "Swapped number: " << swappedNumber << endl;
 
     return 0;
 }
