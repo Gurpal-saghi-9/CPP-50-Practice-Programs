@@ -7,7 +7,7 @@ This folder contains a C++ program to swap the first and last digits of a given 
 ## 📜 Program Details
 
 ### 📄 File Name: 
-- `12_swap_first_last_digit.cpp`
+- `12. Swap first last last digit of number`
 
 ### ✨ Features:
 - Accepts an integer input from the user.
@@ -23,7 +23,10 @@ This folder contains a C++ program to swap the first and last digits of a given 
 ---
 
 ## 📂 Folder Structure
-- `12_swap_first_last_digit.cpp`: Program file to swap the first and last digits.
+- `01_using_string_conversion.cpp`: Program file to swap the first and last digits usig string conversion.
+- `02_using_mathematical_op.cpp`: Program file to swap the first and last digits usig mathemetical functions.
+- `03_using_array_manipulation.cpp`: Program file to swap the first and last digits usig array manipulation.
+- `04_using_recursion.cpp`: Program file to swap the first and last digits usig recursion.
 - `README.md`: Documentation for the program.
 
 ---
