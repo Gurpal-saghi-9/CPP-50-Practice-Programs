@@ -23,3 +23,10 @@ int main() {
 
     return 0;
 }
+
+// Output
+// Enter the number of elements: 5
+// Enter 5 elements: 1 2 -3 4 -5
+// Total number of negative elements: 2
+
+// In this program, we have used a dynamic array to store n elements. We have used new operator to allocate memory for the array. After using the array, we have freed the allocated memory using delete[] operator.    */
